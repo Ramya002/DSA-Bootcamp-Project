@@ -1,4 +1,4 @@
-// Write a program to Swap to two numbers
+// Write a program to Swap two numbers
 
 #include<iostream>
 using namespace std;
